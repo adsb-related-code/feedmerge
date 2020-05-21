@@ -1,0 +1,4 @@
+github.com/paulbellamy/ratecounter v0.2.0 h1:2L/RhJq+HA8gBQImDXtLPrDXK5qAj6ozWVK/zFXVJGs=
+github.com/paulbellamy/ratecounter v0.2.0/go.mod h1:Hfx1hDpSGoqxkVVpBi/IlYD7kChlfo5C6hzIHwPqfFE=
+github.com/tv42/topic v0.0.0-20130729201830-aa72cbe81b48 h1:4HadKLQh7sw8SobBMRWhMOZXHm+Nyx+c9xfhJlWEI2Y=
+github.com/tv42/topic v0.0.0-20130729201830-aa72cbe81b48/go.mod h1:b4JA15yUof03YRQ6IiKevPk2syaMBMJb92x9PeyU+Xc=
